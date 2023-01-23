@@ -11,6 +11,7 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
+  // variable null safety
    String? _selectedUser;
   @override
   Widget build(BuildContext context) {
